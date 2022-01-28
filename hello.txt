@@ -2,7 +2,7 @@ hello git!
 hello git! dev dev
 hello git! dev
 hello git!
+hello git! 
 hello git!
 hello git!
-hello git!
-hello git!
+hello git! dev-conflict
