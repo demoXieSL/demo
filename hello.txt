@@ -3,6 +3,6 @@ hello git! dev dev
 hello git! dev
 hello git!
 hello git!
-hello git!
+hello git! master conflict
 hello git!
 hello git!
